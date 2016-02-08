@@ -19,4 +19,4 @@ Prerrequisitos del curso:
 
 Fechas del curso:
 
-El curso se impartirá el martes 1, miércoles 2 y jueves 3 de abril de 2016 de 15:00 a 17:00 horas, en un aula aún por asignar
+El curso se impartirá el martes 1, miércoles 2 y jueves 3 de marzo de 2016 de 15:00 a 17:00 horas, en un aula aún por asignar
