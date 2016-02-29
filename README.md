@@ -12,6 +12,8 @@ Objetivos del Curso:
 
 Prerrequisitos del curso:
 
+
+MUY IMPORTANTE: es nuy importante para el curso que los asistentes lleven un ratón de mano para manejar el programa, no está pensado para usarse con pad, por comodidad es muy recomendable traer uno.
 * Instalar blender en su versión 2.76 https://www.blender.org/download/
 * Instalar Unity en su última versión (no hace falta descargar los standard assets) https://unity3d.com/es/get-unity/download?ref=personal
 * Instalar Xnormal, programa que permite crear mapas de normales http://www.xnormal.net/Downloads.aspx
@@ -19,4 +21,6 @@ Prerrequisitos del curso:
 
 Fechas del curso:
 
-El curso se impartirá el martes 1, miércoles 2 y jueves 3 de marzo de 2016 de 15:00 a 17:00 horas, en un aula aún por asignar
+El curso se impartirá el martes 1, miércoles 2 y jueves 3 de marzo de 2016 de 15:00 a 17:00 horas, en el aula 6105
+
+
