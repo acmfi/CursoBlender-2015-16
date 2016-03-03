@@ -21,6 +21,8 @@ MUY IMPORTANTE: es nuy importante para el curso que los asistentes lleven un rat
 
 El curso ha terminado y ha sido bastante satisfactorio, por si te lo perdiste, o por si quieres recordar algo de lo que vimos, aqu'i tienes la url de la presentación que se usó en el curso.
 
+https://docs.google.com/presentation/d/1XRV9zQiohh5gGJxemM_-tYsVTrxkSc-HHjjbWNvPDK8/edit?usp=sharing
+
 Muchas gracias a todos!
 
 
