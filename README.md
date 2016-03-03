@@ -19,8 +19,8 @@ MUY IMPORTANTE: es nuy importante para el curso que los asistentes lleven un rat
 * Instalar Xnormal, programa que permite crear mapas de normales http://www.xnormal.net/Downloads.aspx
 * Tener instalado cualquier programa que permita editar imágenes en formato vectorial, tipo inkScape o Corel Draw https://inkscape.org/es/descargas/
 
-Fechas del curso:
+El curso ha terminado y ha sido bastante satisfactorio, por si te lo perdiste, o por si quieres recordar algo de lo que vimos, aqu'i tienes la url de la presentación que se usó en el curso.
 
-El curso se impartirá el martes 1, miércoles 2 y jueves 3 de marzo de 2016 de 15:00 a 17:00 horas, en el aula 6105
+Muchas gracias a todos!
 
 
